@@ -1,0 +1,8 @@
+{
+  "name": "com.meshman13.gitlabdemo",
+  "version": "1.0.0",
+  "displayName": "GitLab Demo",
+  "description": "A demo package",
+  "unity": "2021.3",
+  "dependencies": {}
+}
